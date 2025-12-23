@@ -14,3 +14,7 @@ terraform plan
 
 ## Aplica los cambios y crea los recursos reales
 terraform apply
+
+##eliminar toda la infraestructura creada
+
+terraform destroy
